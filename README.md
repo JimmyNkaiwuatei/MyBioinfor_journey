@@ -18,7 +18,7 @@ I have an interest in drug research and development and I look ahead to advancin
 
 ##Long term##
 
-1. To be an expert drug reseracher and designer.
+1. To be an expert in CADD.
 2. Establishment of a Bionformatics Research and education hub in Africa.
 
 ##Short term##
