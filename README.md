@@ -16,12 +16,12 @@ I have an interest in drug research and development and I look ahead to advancin
 
 #Milestones#
 
-##Long term goals##
+##Long term##
 
 1. To be an expert drug reseracher and designer.
 2. Establishment of a Bionformatics Research and education hub in Africa.
 
-##Short term goals##
+##Short term##
 
 1. Fostering my expertise in molecular docking, drug simulation and modelling to improve my research skills in drug R$D.
 2. Learn about big data analysis and filtration tools. 
